@@ -2,9 +2,9 @@
 ![crash](https://github.com/user-attachments/assets/5fc429d2-f0aa-45dc-9cbb-f429303cd360)
 
 # Summary 
-Car accidents are a significant public safety concern, resulting in thousands of injuries and fatalities every year. In New York, the problem is particularly severe, with hundreds of thousands of accidents reported annually. This dataset offers a comprehensive view of car accidents in New York, including location, time of day, and number of persons injured.
+This project goal is to analyze the data and gain insights into the factors contributing to car accidents, especially identifying areas where collision frequency is high and what safety measures is needed to prevent furture accident. The ultimate objective is to establish a more comprehensive understanding of car accidents in New York, promote safer driving practices by inducing traffic sign at majore areas, oreinted them on road safety rules and introduce #### no over speed sign at some designated areas which i believe will reduce the number of accidents in the city. 
 
-The project's primary goal is to analyze this data and gain insights into the factors contributing to car accidents, while especially identifying areas where collision frequency is high and more safety measures are needed. The ultimate objective is to establish a more comprehensive understanding of car accidents in New York, promote safer driving practices, and reduce the number of accidents in the city
+Vehicle accidents are a significant public safety concern, resulting in thousands of injuries and fatalities every year. In New York, the problem is particularly severe, with hundreds of thousands of accidents reported annually. This dataset offers a comprehensive view of car accidents in New York, including date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors.
 
 ## Data Description 
 Motor vehicle collisions reported by the New York City Police Department from 2021-2023. Each record represents an individual collision, including the date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors.
@@ -13,9 +13,9 @@ Data-set: (https://docs.google.com/spreadsheets/d/1huf7nbHNZdzr4N6QUvURxeWU-G27K
 
 ## Tools used
 1. Excel for data cleaning
-  - power query in Excel.
+    - power query in Excel.
 2. Excel for analysis,
-  - Pivot Tables.
+    - Pivot Tables.
 3. Excel for Dashboard.
 4. Power point for slide viewing.
 
@@ -30,10 +30,14 @@ After cleaning the Dataset, i move over to my pivot table to analysis my questio
 
 ## Questions for Analysis 
 1. Compare the % of total accidents by month. Do you notice any seasonal patterns?
-   
-3. Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?
-4. On which particular street were the most accidents reported? What does that represent as a % of all reported accidents?
-5. What was the most common contributing factor for the accidents reported in this sample (based on Vehicle)? What about fatal accidents specifically?
+From the chart below, you will notice that March and January has the hightest accident rate
+<img width="347" height="220" alt="Chart" src="https://github.com/user-attachments/assets/65b20b9c-3000-4485-bbab-0d464942de15" />
+
+2. Break down accident frequency by day of week and hour of day. Based on this data, when do accidents occur most frequently?
+   <img width="205" height="192" alt="chart 1" src="https://github.com/user-attachments/assets/a24b8e34-8ed9-461a-bc89-cff6bff2baa2" />
+
+3. On which particular street were the most accidents reported? What does that represent as a % of all reported accidents?
+4. What was the most common contributing factor for the accidents reported in this sample (based on Vehicle)? What about fatal accidents specifically?
 
 ## INSIGHT AND RECCOMENDATION
  1. March, January had specifically hiher accidents and decreased from July-December during 2021-2023.
@@ -44,5 +48,7 @@ After cleaning the Dataset, i move over to my pivot table to analysis my questio
     non-challant atitude
     While the major fatal accident (death) is cause by unspecified , unsafe speed and driver intention/ distraction. 
     This indicate failure to yield the right -way i.e golden road rules and speeding.
+
+Google Slide: 
 
 
