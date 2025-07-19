@@ -49,6 +49,6 @@ From the chart below, you will notice that March and January has the hightest ac
     While the major fatal accident (death) is cause by unspecified , unsafe speed and driver intention/ distraction. 
     This indicate failure to yield the right -way i.e golden road rules and speeding.
 
-Google Slide: 
+Google Slide: (https://drive.google.com/drive/folders/1lzjPpYvPILPOPPE5kuFzvMgK6JzbNf52)
 
 
