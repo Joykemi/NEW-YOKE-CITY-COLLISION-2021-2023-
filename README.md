@@ -2,7 +2,7 @@
 ![crash](https://github.com/user-attachments/assets/5fc429d2-f0aa-45dc-9cbb-f429303cd360)
 
 # Summary 
-This project goal is to analyze the data and gain insights into the factors contributing to car accidents, especially identifying areas where collision frequency is high and what safety measures is needed to prevent furture accident. The ultimate objective is to establish a more comprehensive understanding of car accidents in New York, promote safer driving practices by inducing traffic sign at majore areas, oreinted them on road safety rules and introduce #### no over speed sign at some designated areas which i believe will reduce the number of accidents in the city. 
+This project goal is to analyze the data and gain insights into the factors contributing to car accidents, especially identifying areas where collision frequency is high and what safety measures is needed to prevent furture accident. The ultimate objective is to establish a more comprehensive understanding of car accidents in New York, promote safer driving practices by inducing traffic sign at majore areas, oreinted them on road safety rules and introduce no over speed sign at some designated areas which i believe will reduce the number of accidents in the city. 
 
 Vehicle accidents are a significant public safety concern, resulting in thousands of injuries and fatalities every year. In New York, the problem is particularly severe, with hundreds of thousands of accidents reported annually. This dataset offers a comprehensive view of car accidents in New York, including date, time and location of the accident (borough, zip code, street name, latitude/longitude), vehicles and victims involved, and contributing factors.
 
